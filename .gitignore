@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+.DS_Store
+ratings.csv
+movies_metadata.csv
+.gitattributes
+
+=======
+>>>>>>> parent of d91e78b (Adding files to start ETL process.)
+=======
+>>>>>>> parent of d91e78b (Adding files to start ETL process.)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
